@@ -1,4 +1,4 @@
-# plotly_education_guide_with_examples
+# plotly education guide with examples
 This repo was made during my education process. I'm using it as reference and sometimes it can be useful. 
 ------
 
