@@ -1,5 +1,5 @@
 # Plotly education guide with examples
-This repo was made during my education process. I'm using it as reference and sometimes it can be useful. 
+This repo was made during my education process. I use it as reference and sometimes it can be useful. 
 ------
 
 I splited all data in several notebooks with plots names like:
